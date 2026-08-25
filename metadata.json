@@ -1,0 +1,6 @@
+{
+  "name": "Anime Streaming Platform",
+  "description": "ReStream - Platform streaming anime sub Indo modern dan ultra-responsif dengan studio watchlist, riwayat tontonan offline lokal, dan pemutar video HD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
